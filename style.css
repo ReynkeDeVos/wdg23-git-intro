@@ -22,7 +22,7 @@ h1 {
   margin: 20px;
   color: rgb(150, 71, 68);
 }
-header nav {
+header nav ul {
   display: flex;
   justify-content: space-around;
 }
